@@ -5,13 +5,21 @@
 ## Instructions:
 
 1.Be confident in yourself.
+
 2.Please read any question twice and think before solving it.
+
 3.Please the assignment is not a group work, but you can ask your fellow students for direction and not for the answer.
+
 4.Please solve all problems in your IDE (eg. VSCode).
+
 5.Please any explanation required from you in any of the question.Write the explanations in the areas of the code expected and put them in a comment.
+
 6.Please do not use ChatGPT to solve the problem, instead Google the solutions and also reference more to the Guru Coding JavaScript past classes held for help. You wont be doing yourself any good using ChatGPT.
+
 7.If you fail any solution its okay and we will do corrections together, you’re here to make mistakes and learn, that’s why you’re here as a learner.
+
 8.Please solve all problem on one JavaScript file.
+
 9.All solution should be pushed to the GitHub. 
 
 ## QUestions:
